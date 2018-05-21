@@ -134,7 +134,7 @@
     "vmExtensionName": "dscExtension",
     /*"modulesURL": "[concat(parameters('_artifactsLocation'), 'scripts/WebServerConfig.ps1.zip', parameters('_artifactsLocationSASToken'))]",*/
     /* "modulesURL": "https://github.com/fixx220/ARMTemplates/tree/master/IIS-4VM-SQL-1VM/scripts/WebServerConfig.ps1.zip",*/
-    "modulesURL": "https://github.com/fixx220/ARMTemplates/raw/master/IIS-4VM-SQL-1VM/scripts/WebServerConfig.ps1.zip",
+    "modulesURL": "https://github.com/TummalapalliSuresh/IIS_SQL_VMs_Template/raw/master/IIS_SQL_VMs_Template/WebServerConfig.ps1.zip",
     "configurationFunction": "WebServerConfig.ps1\\WebServerConfig"
   },
       "resources": [
